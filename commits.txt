@@ -1,0 +1,17 @@
+commit 1b49b9a2a76d60578461c9294ecd71f26fbecbe1
+Author: cfhmendez <cfhmendez@gmail.com>
+Date:   Tue Nov 24 19:58:21 2020 -0600
+
+    modificacion para eliminar
+
+commit aeae03272b0381bbfbed0b53fa60348626962d25
+Author: cfhmendez <cfhmendez@gmail.com>
+Date:   Tue Nov 24 18:51:50 2020 -0600
+
+    agragando titulo a proyecto
+
+commit 2785db88c420b81e511a3175003f002c967ad9d7
+Author: cfhmendez <cfhmendez@gmail.com>
+Date:   Tue Nov 24 18:28:14 2020 -0600
+
+    empezando el proyecto
