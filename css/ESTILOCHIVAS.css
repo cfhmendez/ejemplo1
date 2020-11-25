@@ -1,0 +1,47 @@
+body{
+    background-image:url(../fondo/chivas1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{font-size:40px;color:rgb(13,13,129); font-family:Baskerville Old Face;text-align:center;}
+p{font-size: 18px;text-align: justify;}
+a{font-size:20px;font-family:Baskerville Old Face;}
+.nom{font-size:40px;color:red;font-family:Baskerville Old Face;}
+.der{ text-align: right;}
+.izq{ text-align:left;}
+.centrado{
+    margin:10px auto;
+    display:block;}
+
+#main-container{
+    margin: 150px auto;
+    widows: 600px;
+}
+table{
+    width: 100%;
+    
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+
+    font-size: 30px;
+    padding: 20px;
+}
+td{
+    
+    color: rgb(5, 5, 65);
+    font-size: 35px;
+    padding: 20px;
+}
+
+tr:nth-child(event){
+    border: solid 1px rgb(146, 74, 74); 
+    background-color: gray;
+}
+tr:hover{
+    background-color: red;
+    color:rgb(49, 49, 49);
+}
